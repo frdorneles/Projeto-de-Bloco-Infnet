@@ -1,4 +1,6 @@
-# **Projeto-de-Bloco-Infnet**
+# **Projeto de Bloco Infnet**
+
+## Bloco: Arquitetura e Infraestrutura de Aplicações
 
 Sobre o projeto, temos uma aplicação hipoteticamente criada para exemplificar um projeto com o objetivo de mostrar uma infraestrutura adequada para a implantação de uma aplicação projetada para operar como um SDDC.
 
