@@ -7,4 +7,8 @@ Sobre o projeto, temos uma aplicação hipoteticamente criada para exemplificar 
 ![Diagrama DR2-1](https://user-images.githubusercontent.com/90536330/133007938-cf629beb-23d9-435a-9137-3507b6f3f884.png)
 
 ## **Tecnologias Utilizadas**
-
+- Ansible
+- WordPress
+- MySQL
+- Server
+- PHP
